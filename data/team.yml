@@ -1,0 +1,15 @@
+member:
+  - title : "Mr. Yang Ka Seng"
+    image : "images/team/kaseng.jpg"
+    designation : "Supervisor / Programmer"
+    email : "yang.ka.seng@vinda.com"
+  
+  - title : "Ms. Azma Abdullah"
+    image : "images/team/azma.jpg"
+    designation : "Academic Advisor / Lecturer"
+    email : "azma@ump.edu.my"  
+
+  - title : "Dr. Hasan Kahtan"
+    image : "images/team/hasan.jpg"
+    designation : "Senior Lecturer"
+    email : "hasankahtan@ump.edu.my"

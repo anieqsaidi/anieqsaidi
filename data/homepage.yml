@@ -1,0 +1,195 @@
+# banner
+banner:
+  title : "Hi! I’m Anieq. <br> A Software Engineer."
+  socialLinks:
+    - icon : "ti-facebook"
+      URL : "https://www.facebook.com/anieqsaidi"
+      
+    - icon : "ti-instagram"
+      URL : "https://www.instagram.com/anieqsaidi/"
+      
+    - icon : "ti-linkedin"
+      URL : "https://www.linkedin.com/in/aniqsaidi/"
+
+# about
+about:
+  enable : true
+  content : "A very enthusiastic 23 year-old teenager who is majored in Software Engineering and has a immense interest in the filed of Computer Science. Currently undergoing an internship at Vinda Group SEA (Vinda Malaysia Sdn Bhd) located at Shah Alam, Selangor, Malaysia."
+  button:
+    btnText : "Read More"
+    URL : "/about"
+
+# skill
+skill:
+  enable : true
+  skillbar:
+    - title : "Object-Oriented Programming"
+      progress : "70%"
+      color : "#fdb157"
+      
+    - title : "JavaScript"
+      progress : "70%"
+      color : "#fafd57"
+      
+    - title : "Software Documentation"
+      progress : "80%"
+      color : "#bdecf6"
+
+    - title : "Java Programming"
+      progress : "70%"
+      color : "#9473e6"
+
+    - title : "Go Hugo"
+      progress : "75%"
+      color : "#fa57fd"
+    
+    - title : "Leadership"
+      progress : "90%"
+      color : "#ffbcaa"
+
+    - title : "Communication"
+      progress : "90%"
+      color : "#57fd5d"
+
+    - title : "Teamwork"
+      progress : "90%"
+      color : "#5f57fd"
+
+# experience
+experience:
+  enable : true
+  item: 
+    - logo : "images/experience/vinda-logo.png"
+      title : "Information Technology Intern (Web Developer)"
+      company : "Vinda Group SEA"
+      duration : "Sept 2019 - Present"
+      
+    - logo : "images/experience/bbw-logo.png"
+      title : "Children Books Sorter and Management Team"
+      company : "Big Bad Wolf Books"
+      duration : "Mar 2019 - April 2019"
+      
+    - logo : "images/experience/mph-logo.png"
+      title : "Cashier"
+      company : "MPH Bookstores Sdn Bhd"
+      duration : "Mar 2014 - May 2014"
+
+# education
+education:
+  enable : true
+  item:  
+    - title : "Bachelor of Computer Science (Software Engineering) with Honors"
+      year : "2015 - Present"
+      logo : "images/education/ump.png"
+      academy : "Universiti Malaysia Pahang (UMP)"
+      
+    - title : "Certificate of Engineering Science"
+      year : "2014 - 2015"
+      logo : "images/education/kmkt.png"
+      academy : "Kolej Matrikulasi Kelantan (KMKt)"
+      
+    - title : "Malaysia Certificate of Education"
+      year : "2009 - 2013"
+      logo : "images/education/smkbbsb.png"
+      academy : "Sekolah Menengah Kebangsaan Bandar Baru Sungai Buloh (SMKBBSB)"
+    
+    - title : "Primary School Achievement Test"
+      year : "2003 - 2008"
+      logo : "images/education/sksp.png"
+      academy : "Sekolah Kebangsaan Sungai Pelong (SKSP)"
+    
+
+# service
+service:
+  enable : true
+  item : 
+    - title : "President"
+      logo : "images/accomplishment/mpp.jpg"
+      content : "Student Representative Council Session 2017 / 2018."
+      highlighted : true
+
+    - title : "Third Vice-President"
+      logo : "images/accomplishment/mppk.jpg"
+      content : "National Student Consultative Council Session 2017 / 2018."
+      highlighted : true
+
+    - title : "Director"
+      logo : "images/accomplishment/kokuria.png"
+      content : "National Kokuria Carnival 2018 in collaboration with Methodist Girl Primary School (MGPS)."
+      highlighted : true
+
+# portfolio
+portfolio:
+  enable : true
+  item:
+    - title : "Vinda Apps Zone"
+      content : "Internship Project.<br>A web-based portal which compiles the internal and external links related to the company's performance for everyday use."
+      image : "images/projects/appszone.png"
+      projectURL : "http://appszone.vindagroupsea.com"
+      
+    - title : "Naturel Kiss Online Shopping"
+      content : "Final Year Project.<br>An online shopping mobile application which allows the user to view, search, add to cart and checkout the products available based on the catalogue provided by the Naturel Kiss Company."
+      image : "images/projects/naturel_kiss.png"
+      projectURL : "http://umpir.ump.edu.my/id/eprint/26655/"
+      
+    - title : "E-Aduan Hygiene System for Kolej Kediaman Cafeteria in UMP"
+      content : "iCE-CInno Competition.<br>An effective complaint system has been established to curb with the problem that is faced by the students of UMP regarding the hygiene and food quality of the cafeteria in every residential college."
+      image : "images/projects/icinno.jpg"
+      projectURL : "https://icecinno.ump.edu.my/index.php/en/documents/pdf-files/proceeding-2016/46-icecinno16-41/file"
+
+# testimonial
+testimonial:
+  enable : true
+  item:
+    - name : "Tony Fernandes"
+      image : "images/inspiration/tony.jpg"
+      designation : "CEO, AirAsia Berhad"
+      content : "I don't care about failing because I do not want to sit down in my older years and say,<br>'How come I didn't try?'"
+      
+    - name : "Jack Ma"
+      image : "images/inspiration/jack.jpg"
+      designation : "Co-Founder, Alibaba Group"
+      content : "Never give up. Today is hard, tomorrow will be worse,<br>but the day after tomorrow will be sunshine."
+      
+    - name : "Bill Gates"
+      image : "images/inspiration/bill.jpg"
+      designation : "Co-Founder, Microsoft"
+      content : "Technology is just a tool. In terms of getting the kids working together and motivating them,<br>the teacher is the most important."
+
+# client slider
+clientSlider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : false
