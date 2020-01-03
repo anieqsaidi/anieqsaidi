@@ -82,10 +82,23 @@ p {
   line-height: 1.5;
   font-family: roboto, sans-serif;
   margin-top: 10%;
+  text-align: center;
+}
+
+p.text-white.paragraph-lg.font-secondary {
+  margin-top: 0%;
 }
 
 p.text-dark.mb-1, p.mb-0.text-light, p.mb-0 {
   margin-top: 5%;
+}
+
+p.text-dark.mb-1, p.mb-0.text-light {
+  text-align: left;
+}
+
+p.mb-0.text-light.copy {
+  text-align: center;
 }
 
 p.text-light.font-secondary {
@@ -149,6 +162,11 @@ h6 {
   font-family: roboto,sans-serif;
 }
 
+h5.text-light {
+  text-align: center;
+  margin-top: 3%;
+}
+
 h6.text-light {
   margin-bottom: 10%;
 }
@@ -163,6 +181,9 @@ h1,
   h1,
   .h1 {
     font-size: 65px
+  }
+  h1.about {
+    text-align: center;
   }
 }
 

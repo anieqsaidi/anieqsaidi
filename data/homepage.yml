@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hi! I’m Anieq. <br> A Software Engineer."
+  title : "Hi! I’m Anieq. <br> A Web Developer."
   socialLinks:
     - icon : "ti-facebook"
       URL : "https://www.facebook.com/anieqsaidi"
@@ -14,7 +14,7 @@ banner:
 # about
 about:
   enable : true
-  content : "A very enthusiastic 23 year-old teenager who is majored in Software Engineering and has a immense interest in the filed of Computer Science. Currently undergoing an internship at Vinda Group SEA (Vinda Malaysia Sdn Bhd) located at Shah Alam, Selangor, Malaysia."
+  content : "A very enthusiastic 23 year-old teenager who is majored in Software Engineering and has a immense interest in the field of Computer Science. Currently undergoing an internship at Vinda Group SEA (Vinda Malaysia Sdn Bhd) located at Shah Alam, Selangor, Malaysia."
   button:
     btnText : "Read More"
     URL : "/about"
