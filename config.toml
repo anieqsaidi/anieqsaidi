@@ -46,7 +46,7 @@ home = "Home"
 description = "This is a résumé portal created by Anieq Saidi."
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "219020475"
 
   # Preloader
   [params.preloader]
