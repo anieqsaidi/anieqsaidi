@@ -125,7 +125,7 @@ portfolio:
     - title : "Vinda Apps Zone"
       content : "Internship Project.<br>A web-based portal which compiles the internal and external links related to the company's performance for everyday use."
       image : "images/projects/appszone.png"
-      projectURL : "http://appszone.vindagroupsea.com"
+      projectURL : "images/projects/appszone.png"
       
     - title : "Naturel Kiss Online Shopping"
       content : "Final Year Project.<br>An online shopping mobile application which allows the user to view, search, add to cart and checkout the products available based on the catalogue provided by the Naturel Kiss Company."
