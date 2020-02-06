@@ -43,10 +43,10 @@ summaryLength = "10"
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "This is a résumé portal created by Anieq Saidi."
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "G-3WQ9N4F99N"
 
   # Preloader
   [params.preloader]
