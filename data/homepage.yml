@@ -14,7 +14,7 @@ banner:
 # about
 about:
   enable : true
-  content : "A very enthusiastic 23 year-old teenager who is majored in Software Engineering and has a immense interest in the field of Computer Science. Currently undergoing an internship at Vinda Group SEA (Vinda Malaysia Sdn Bhd) located at Shah Alam, Selangor, Malaysia."
+  content : "An enthusiastic 24 year-old teenager who is majored in Software Engineering and has a immense interest in the field of Computer Science. Currently undergoing an internship at Vinda Group SEA (Vinda Malaysia Sdn Bhd) located at Shah Alam, Selangor, Malaysia."
   button:
     btnText : "Read More"
     URL : "/about"
@@ -24,11 +24,11 @@ skill:
   enable : true
   skillbar:
     - title : "Object-Oriented Programming"
-      progress : "70%"
+      progress : "60%"
       color : "#fdb157"
       
     - title : "JavaScript"
-      progress : "70%"
+      progress : "60%"
       color : "#fafd57"
       
     - title : "Software Documentation"
@@ -36,11 +36,11 @@ skill:
       color : "#bdecf6"
 
     - title : "Java Programming"
-      progress : "70%"
+      progress : "60%"
       color : "#9473e6"
 
     - title : "Go Hugo"
-      progress : "75%"
+      progress : "80%"
       color : "#fa57fd"
     
     - title : "Leadership"
@@ -48,11 +48,11 @@ skill:
       color : "#ffbcaa"
 
     - title : "Communication"
-      progress : "90%"
+      progress : "80%"
       color : "#57fd5d"
 
     - title : "Teamwork"
-      progress : "90%"
+      progress : "85%"
       color : "#5f57fd"
 
 # experience
