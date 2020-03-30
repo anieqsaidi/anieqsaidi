@@ -20,6 +20,10 @@ body {
   color: #4c4c4c
 }
 
+p.about {
+  text-align: justify;
+}
+
 .col-md-8 p {
   margin-top: 0%;
 }

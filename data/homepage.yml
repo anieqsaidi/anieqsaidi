@@ -14,7 +14,7 @@ banner:
 # about
 about:
   enable : true
-  content : "An enthusiastic 24 year-old teenager who is majored in Software Engineering and has a immense interest in the field of Computer Science. Currently undergoing an internship at Vinda Group SEA (Vinda Malaysia Sdn Bhd) located at Shah Alam, Selangor, Malaysia."
+  content : "An enthusiastic 24 year-old teenager who is very passionate in everything that he does. Majored in Software Engineering and has a immense interest in the field of Computer Science."
   button:
     btnText : "Read More"
     URL : "/about"
@@ -58,11 +58,16 @@ skill:
 # experience
 experience:
   enable : true
-  item: 
+  item:
+    - logo : "images/experience/bbw-logo.png"
+      title : "Floor Management Team"
+      company : "Big Bad Wolf Books"
+      duration : "Feb 2020 - Mar 2020"
+
     - logo : "images/experience/vinda-logo.png"
-      title : "Information Technology Intern (Web Developer)"
+      title : "Web Developer (Intern)"
       company : "Vinda Group SEA"
-      duration : "Sept 2019 - Present"
+      duration : "Sept 2019 - Feb 2020"
       
     - logo : "images/experience/bbw-logo.png"
       title : "Children Books Sorter and Management Team"
@@ -79,7 +84,7 @@ education:
   enable : true
   item:  
     - title : "Bachelor of Computer Science (Software Engineering) with Honors"
-      year : "2015 - Present"
+      year : "2015 - 2020"
       logo : "images/education/ump.png"
       academy : "Universiti Malaysia Pahang (UMP)"
       
@@ -141,20 +146,20 @@ portfolio:
 testimonial:
   enable : true
   item:
-    - name : "Tony Fernandes"
-      image : "images/inspiration/tony.jpg"
-      designation : "CEO, AirAsia Berhad"
-      content : "I don't care about failing because I do not want to sit down in my older years and say,<br>'How come I didn't try?'"
+    - name : "Elon Musk"
+      image : "images/inspiration/elon.jpg"
+      designation : "Founder & CEO, SpaceX"
+      content : '"When something is important enough, you do it even if the odds are not in your favor."'
       
     - name : "Jack Ma"
       image : "images/inspiration/jack.jpg"
       designation : "Co-Founder, Alibaba Group"
-      content : "Never give up. Today is hard, tomorrow will be worse,<br>but the day after tomorrow will be sunshine."
+      content : '"Never give up. Today is hard, tomorrow will be worse,<br>but the day after tomorrow will be sunshine."'
       
     - name : "Bill Gates"
       image : "images/inspiration/bill.jpg"
       designation : "Co-Founder, Microsoft"
-      content : "Technology is just a tool. In terms of getting the kids working together and motivating them,<br>the teacher is the most important."
+      content : '"Technology is just a tool. In terms of getting the kids working together and motivating them,<br>the teacher is the most important."'
 
 # client slider
 clientSlider:

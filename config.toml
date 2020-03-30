@@ -1,6 +1,6 @@
 baseURL = "https://anieqsaidi.web.app"
 languageCode = "en-us"
-title = "A Story Within A Story..."
+title = "Talent Has No Face."
 theme = "kross-hugo-portfolio-template"
 summaryLength = "10"
 
@@ -57,6 +57,6 @@ googleAnalitycsID = "G-3WQ9N4F99N"
   formAction = "#" #contact form works with formspree.io
 
   [params.footer]
-  email = "muhammad.amrun@vinda.com"
-  phone = "03-5521 7488"
-  address = "2A, Jalan Pelabur 23/1, Seksyen 23, 40300 Shah Alam, Selangor"
+  email = "aniq_mpp@ump.edu.my"
+  phone = "+60 19-242 7685"
+  address = "Kuala Lumpur, Malaysia"
